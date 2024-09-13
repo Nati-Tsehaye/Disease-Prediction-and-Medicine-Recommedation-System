@@ -68,12 +68,6 @@ The model is trained using a dataset containing various disease symptom mappings
 
 The disease prediction model uses machine learning techniques to classify diseases based on the symptoms provided by the user. The model was trained using TensorFlow and converted into TensorFlow Lite for mobile integration. It is connected to Flutter to allow real-time predictions on the mobile app.
 
-## Future Enhancements
-
-- Expanding the database to include more diseases and symptoms.
-- Incorporating user feedback for better prediction accuracy.
-- Localization support for multiple languages.
-
 ## Contributions
 
 Feel free to contribute to this project by submitting pull requests or opening issues. 
