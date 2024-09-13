@@ -21,7 +21,13 @@ This system is built with Flutter for the mobile frontend, which communicates wi
 
 ## Demo
 Check out the video below to see the Disease Prediction and Medicine Recommendation System in action:
+
+
 https://github.com/user-attachments/assets/61ac3856-8b13-460e-a301-6c2fb8a5dd9c
+
+
+
+
 
 ## Technology Stack
 
@@ -79,3 +85,5 @@ Feel free to contribute to this project by submitting pull requests or opening i
 ---
 
 Let me know if you'd like any adjustments!
+
+
