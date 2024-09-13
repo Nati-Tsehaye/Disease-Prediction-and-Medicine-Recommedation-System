@@ -1,4 +1,4 @@
-# medicine_recommendation_system
+# Disease Prediction and Medicine Recommedation System
 
 A new Flutter project.
 
