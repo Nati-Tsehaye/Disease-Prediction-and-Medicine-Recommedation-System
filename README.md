@@ -42,7 +42,7 @@ Check out the video below to see the Disease Prediction and Medicine Recommendat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/Disease-Prediction-System.git
+   git clone https://github.com/Nati-Tsehaye/Disease-Prediction-and-Medicine-Recommedation-System.git
    cd Disease-Prediction-System
    ```
 
