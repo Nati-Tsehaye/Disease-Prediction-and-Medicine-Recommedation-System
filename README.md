@@ -19,6 +19,9 @@ This system is built with Flutter for the mobile frontend, which communicates wi
 - **Precautions & Medications:** The app suggests precautionary measures and medications for the predicted disease.
 - **Diet & Workout Plans:** Recommended diet plans and workout routines tailored to the predicted disease are included to promote a healthy recovery.
 
+## Demo
+Check out the video below to see the Disease Prediction and Medicine Recommendation System in action:
+
 ## Technology Stack
 
 - **Frontend:** Flutter for cross-platform mobile development.
